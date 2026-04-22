@@ -13,6 +13,8 @@ This repository contains an end-to-end machine learning pipeline designed to pre
    * `001_exploratory_data_analysis.ipynb` 
    * `002_feature_engineering.ipynb`
    * `003_model_development.ipynb`
+- The folder titled 'processed_data' contains the cleaned, processed data split into train and tes data ready for modelling
+- The folder titled 'saved_models' contain all the models developed during experimentation saved as joblib files.
   
 4. The following notebook contains a short answer to address Problem Statement 2:
   * `004_Problem_2_high_level_overview.ipynb`
