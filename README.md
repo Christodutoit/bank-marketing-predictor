@@ -18,3 +18,6 @@ This repository contains an end-to-end machine learning pipeline designed to pre
   
 4. The following notebook contains a short answer to address Problem Statement 2:
   * `004_Problem_2_high_level_overview.ipynb`
+
+5. Resources
+* Google Gemini was utilised during this project
